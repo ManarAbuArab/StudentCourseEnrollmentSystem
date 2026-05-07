@@ -57,7 +57,7 @@ src/
 
 ## 📸 Project Preview
 
-![Student Course Enrollment System](IMAGES/SCES.png)
+![Student Course Enrollment System](images/SCES.png)
 
 ---
 
