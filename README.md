@@ -38,19 +38,35 @@ The system allows users to add, update, delete, and view student enrollments whi
 * Git & GitHub
 
 ---
-
 ## 🧱 Project Structure
 
 ```text
 src/
 │
 ├── app/
+│   └── Main.java
+│
 ├── config/
+│   └── DBConnection.java
+│
 ├── controllers/
+│   └── EnrollmentController.java
+│
 ├── dao/
+│   ├── StudentDAO.java
+│   ├── CourseDAO.java
+│   └── EnrollmentDAO.java
+│
 ├── models/
+│   ├── Student.java
+│   ├── Course.java
+│   └── Enrollment.java
+│
 ├── styles/
+│   └── EnrollmentStyle.css
+│
 └── views/
+    └── Enrollment.fxml
 ```
 
 ---
